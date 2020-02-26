@@ -9,6 +9,6 @@ AVIslandDeal
   ```
 ### EconomyAPI and SimpleArea are available for download below.
 
-[SimpleArea](https://github.com/ifteam/SimpleArea)
+[SimpleArea](https://github.com/organization/SimpleArea)
 
 [EconomyAPI](https://github.com/onebone/EconomyAPI)
