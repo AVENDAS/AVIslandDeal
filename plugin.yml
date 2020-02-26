@@ -1,0 +1,14 @@
+name: AVIslandDeal
+autohr: avenda
+api: [3.0.0, 4.0.0]
+main: avenda\Main
+version: 1.0
+
+commands:
+  섬거래:
+    permission: Island.sell
+    description: 심플에리어 섬거래 플러그인입니다. by avenda
+
+permissions:
+ Island.sell:
+   default: true
