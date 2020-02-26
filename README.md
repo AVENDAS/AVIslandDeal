@@ -12,4 +12,5 @@ SimpleArea:
   https://github.com/ifteam/SimpleArea
 
 EconomyAPI:
-  https://github.com/onebone/EconomyAPI```
+  https://github.com/onebone/EconomyAPI
+  ```
